@@ -11,7 +11,7 @@ As an explanation, the first three lines import the fonts and the fourth line im
  <link rel="preconnect" href="https://fonts.googleapis.com">   
  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>   
  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300&family=M+PLUS+Rounded+1c:wght@300&display=swap" rel="stylesheet">
- <link rel="stylesheet" href="https://raw.github.com/himazin355/cloudy-css/cloudy.css">  
+ <link rel="stylesheet" href="https://raw.githubusercontent.com/himazin355/cloudy-css/main/cloudy.css">  
 ```
 This code changes quite frequently. 
 I'll notify you when it's changed, so please check back often.
