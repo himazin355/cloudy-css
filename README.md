@@ -1,6 +1,6 @@
 # Cloudy CSS
 It's just a way for kids to pass the time. As far as I'm concerned, it's not a good thing.
-## About
+## Overview
 Thid CSS Framework is characterized by cloudy tints and rounded designs.
 The curves and three-dimensionality, in keeping with the aesthetics of modern man, are adaptable to sites for all purposes.
 ## Install
